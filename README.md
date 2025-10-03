@@ -1,6 +1,8 @@
 # CosmicArchive
 An Archive Of Every Cosmic Reach Version
 
+This was a fork of a now deprecated archive, since we restructued the entire thing and semi-automated, use https://github.com/PuzzlesHQ/CRArchive.
+
 <img src="/image.png"></img>
 
 # Changelogs
